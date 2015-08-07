@@ -1,2 +1,2 @@
 # OilEconomy
-Python code for cluster anaysis
+R and Python code for cluster analysis
